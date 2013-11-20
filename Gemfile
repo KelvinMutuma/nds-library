@@ -12,6 +12,13 @@ gem 'bootstrap-sass', '~> 2.3.2.2'
 gem 'devise'
 gem 'figaro'
 gem 'simple_form'
+gem 'fastercsv'
+gem 'rails_admin'
+gem 'pry'
+gem 'pry-theme'
+gem 'pry-nav'
+gem 'pry-doc'
+
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms=>[:mri_19, :mri_20, :rbx]

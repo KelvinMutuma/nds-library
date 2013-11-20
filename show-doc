@@ -1,0 +1,27 @@
+[1m[1;34mObject.methods[0m[0m: yaml_tag
+[1m[1;34mString.methods[0m[0m: try_convert
+[1m[1;34mString#methods[0m[0m: 
+  %            chop!           getbyte    reverse      succ!          
+  *            chr             gsub       reverse!     sum            
+  +            clear           gsub!      rindex       swapcase       
+  <<           codepoints      hash       rjust        swapcase!      
+  <=>          concat          hex        rpartition   to_c           
+  ==           count           include?   rstrip       to_f           
+  ===          crypt           index      rstrip!      to_i           
+  =~           delete          insert     scan         to_r           
+  []           delete!         inspect    setbyte      to_s           
+  []=          downcase        intern     shellescape  to_str         
+  ascii_only?  downcase!       length     shellsplit   to_sym         
+  b            dump            lines      size         tr             
+  bytes        each_byte       ljust      slice        tr!            
+  bytesize     each_char       lstrip     slice!       tr_s           
+  byteslice    each_codepoint  lstrip!    split        tr_s!          
+  capitalize   each_line       match      squeeze      unpack         
+  capitalize!  empty?          next       squeeze!     upcase         
+  casecmp      encode          next!      start_with?  upcase!        
+  center       encode!         oct        strip        upto           
+  chars        encoding        ord        strip!       valid_encoding?
+  chomp        end_with?       partition  sub        
+  chomp!       eql?            prepend    sub!       
+  chop         force_encoding  replace    succ       
+[1m[1;34mlocals[0m[0m: _  __  _dir_  _ex_  _file_  _in_  _out_  _pry_
